@@ -1,4 +1,4 @@
-![logo](https://github.com/Kunalmanjhi/kunalmanjhi/blob/main/banner2.jpg)
+![logo](https://github.com/Kunalmanjhi/kunalmanjhi/blob/main/banner2.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Kunal Kumar Manjhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
