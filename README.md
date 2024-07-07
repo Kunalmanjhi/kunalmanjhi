@@ -1,14 +1,14 @@
 ![logo](https://github.com/Kunalmanjhi/kunalmanjhi/blob/main/banner2.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Kunal Kumar Manjhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate App developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalmanjhi&label=Profile%20views&color=0e75b6&style=flat" alt="kunalmanjhi" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,TAILWIND**
+- 💬 Ask me about **Dart,Flutter,HTML,CSS,JS,BOOTSTRAP,**
 
 - 📫 How to reach me **Kunalkm8586@gmail.com**
 
