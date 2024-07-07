@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Dart,Flutter,HTML,CSS,JS,BOOTSTRAP,**
+- 💬 Ask me about **Dart,Flutter,HTML,CSS,JS,BOOTSTRAP**
 
 - 📫 How to reach me **Kunalkm8586@gmail.com**
 
